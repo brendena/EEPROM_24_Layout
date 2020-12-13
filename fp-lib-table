@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name PLCC32)(type KiCad)(uri /home/bench/Downloads/ul_18224733/KiCAD/2020-11-14_22-59-19/footprints.pretty)(options "")(descr ""))
+  (lib (name PLCC32_2)(type KiCad)(uri /home/bench/Downloads/plcc_32/KiCAD/2020-11-14_22-59-19/footprints.pretty)(options "")(descr ""))
+)
